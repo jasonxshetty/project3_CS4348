@@ -10,3 +10,9 @@
 - search features
 - command line update
 - traversal logic
+## 12/5 - load from file, add/print, error handling
+- bulk insertion
+- file parsing/data extraction
+- error handling
+- ui
+- logging implementation
